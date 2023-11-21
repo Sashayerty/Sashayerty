@@ -11,8 +11,8 @@
     </a>
   </div>
   <div id='gifs' justify-content='space-between'>
-    <img src="https://media.tenor.com/r5tO1IgqFvAAAAAC/%D0%B2%D0%BE%D1%82-%D1%82%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8-that%27s-it.gif"/>
-    <img src="https://media.tenor.com/Qa6Je1Tal4UAAAAC/dota.gif"/>
+    <img src="https://media.tenor.com/r5tO1IgqFvAAAAAC/%D0%B2%D0%BE%D1%82-%D1%82%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8-that%27s-it.gif"/ width="100">
+    <img src="https://media.tenor.com/Qa6Je1Tal4UAAAAC/dota.gif"/ width="100">
   </div>
 </div>
 
