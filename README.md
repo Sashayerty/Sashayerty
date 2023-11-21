@@ -2,6 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sashayerty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/r5tO1IgqFvAAAAAC/%D0%B2%D0%BE%D1%82-%D1%82%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BF%D0%B8%D1%80%D0%BE%D0%B3%D0%B8-that%27s-it.gif)" width="100"/>
+</div>
+
 <!--
 **Sashayerty/Sashayerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
