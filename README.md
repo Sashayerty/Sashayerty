@@ -3,9 +3,11 @@
     Здарова, бандиты
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>
+  <h3 align=left>
     Я начинающий фронтенд разработчик. Коротко о моих проектах:
-    1. 
+    <br>1. SmartStudy - приложение, которое помогает в учёбе.
+    <br>2. Burgers - сайт-магазин без backend`а.
+    <br>3. WorkFuelTelegrmBot - бот, который создаёт статистику.  
   </h3>
   <div id="badges">
     <a href="https://vk.com/sashayerty">
