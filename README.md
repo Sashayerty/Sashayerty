@@ -1,9 +1,9 @@
-<div id="header" align='center'>
 # Добро пожаловать на GitHub Sashayerty!
 ## Вот основные проекты:
 - [Проект "Бургерная"](https://github.com/Sashayerty/Burgers)(чистый HTML + CSS)
 - [Проект "Мессенджер"](https://github.com/Sashayerty/Messenger)(HTML(Bootstrap) + Flask)
 - [Проект "SmartStudy"](https://github.com/Sashayerty/SmartStudy)(PyQT)
+<div id="header" align='center'>
   <div id="badges">
     <a href="https://vk.com/sashayerty">
       <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=VK&logoColor=white alt="VK Badge"/>
