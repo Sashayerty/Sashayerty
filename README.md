@@ -1,8 +1,9 @@
 # Добро пожаловать на GitHub Sashayerty!
 ## Вот основные проекты:
-- [Проект "Бургерная"](https://github.com/Sashayerty/Burgers)(чистый HTML + CSS)
-- [Проект "Мессенджер"](https://github.com/Sashayerty/Messenger)(HTML(Bootstrap) + Flask)
-- [Проект "SmartStudy"](https://github.com/Sashayerty/SmartStudy)(PyQT)
+- [Проект "Бургерная"](https://github.com/Sashayerty/Burgers) (чистый HTML + CSS)
+- [Проект "Мессенджер"](https://github.com/Sashayerty/Messenger) (HTML(Bootstrap) + Flask)
+- [Проект "SmartStudy"](https://github.com/Sashayerty/SmartStudy) (PyQT)
+- [Проект "SimpleWeather"](https://github.com/Sashayerty/SimpleWeather) (QT + чуть-чуть API)
 <div id="header" align='center'>
   <div id="badges">
     <a href="https://vk.com/sashayerty">
