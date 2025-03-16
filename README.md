@@ -2,7 +2,7 @@
 ## Вот основные проекты:
 ### My Own Projects
 - [Kairos](https://github.com/sashayerty/Kairos) Создание курсов на основе ИИ.
-- [BookSlice](https://github.com/Sashayerty/AI_olimp_2024) (тут без слов, я работал fullstack web developer + написал доки
+- [BookSlice](https://github.com/Sashayerty/bookslice) (тут без слов, я работал fullstack web developer + написал доки)
 - [Проект "Мессенджер"](https://github.com/Sashayerty/Messenger) (HTML(Bootstrap) + Flask)
 - [Проект "SmartStudy"](https://github.com/Sashayerty/SmartStudy) (PyQT)
 - [Проект "SimpleWeather"](https://github.com/Sashayerty/SimpleWeather) (QT + чуть-чуть API)
