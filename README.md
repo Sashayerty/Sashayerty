@@ -1,13 +1,13 @@
-# Добро пожаловать на GitHub Sashayerty!
-## Вот основные проекты:
-### My Own Projects
-- [Kairos](https://github.com/sashayerty/Kairos) Создание курсов на основе ИИ.
-- [BookSlice](https://github.com/Sashayerty/bookslice) (тут без слов, я работал fullstack web developer + написал доки)
-- [Проект "Мессенджер"](https://github.com/Sashayerty/Messenger) (HTML(Bootstrap) + Flask)
-- [Проект "SmartStudy"](https://github.com/Sashayerty/SmartStudy) (PyQT)
-- [Проект "SimpleWeather"](https://github.com/Sashayerty/SimpleWeather) (QT + чуть-чуть API)
-### My Contributions
-- [VoiceHub](https://github.com/KirillCodeCreator/CodeFest) (голосовая техподдержка)
+# SashayErty's GitHub
+## My Own Projects
+- **[Kairos](https://github.com/sashayerty/Kairos)**: Создание курсов на основе ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `Google Custom Search API`
+- **[Flask Manager](https://github.com/Sashayerty/flask_manager)**: CLI-утилита, которая создает базовую структуру flask-проекта. `ArgParse`
+- **[BookSlice](https://github.com/Sashayerty/bookslice)**: Сервис для чтения книг с ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `LangChain`
+- **[Проект "Мессенджер"](https://github.com/Sashayerty/Messenger)**: Один из моих первых проектов, сайт для общения. `Flask`, `Firebase`, `Sqlalchemy`
+- **[Проект "SmartStudy"](https://github.com/Sashayerty/SmartStudy)**: Первый проект, десктоп-приложение. `PyQT`
+- **[Проект "SimpleWeather"](https://github.com/Sashayerty/SimpleWeather)**: Парсер погоды. `PyQT`
+## My Contributions
+- **[VoiceHub](https://github.com/KirillCodeCreator/CodeFest)**: Голосовая техподдержка. Я бэкэнд-разработчик. `Flask`, `Sqlalchemy`
 <!-- <div id="header" align='center'>
   <div id="badges">
     <a href="https://vk.com/sashayerty">
