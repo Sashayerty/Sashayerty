@@ -1,5 +1,5 @@
 # SashayErty's GitHub
-## My Own Projects
+## Мои проекты
 - **[Kairos](https://github.com/sashayerty/Kairos)**: Создание курсов на основе ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `Google Custom Search API`
 - **[Commit Maker](https://github.com/Sashayerty/commit_maker)**: CLI-утилита для создания коммитов с помощью ИИ. `urllib`, `os`
 - **[Flask Manager](https://github.com/Sashayerty/flask_manager)**: CLI-утилита, которая создает базовую структуру flask-проекта. `ArgParse`
@@ -7,7 +7,7 @@
 - **[SimpleMessenger](https://github.com/Sashayerty/Messenger)**: Один из моих первых проектов, сайт для общения. `Flask`, `Firebase`, `Sqlalchemy`
 - **[SmartStudy](https://github.com/Sashayerty/SmartStudy)**: Первый проект, десктоп-приложение. `PyQT`
 - **[SimpleWeather](https://github.com/Sashayerty/SimpleWeather)**: Парсер погоды. `PyQT`
-## My Contributions
+## Мои участия в проектах
 - **[VoiceHub](https://github.com/KirillCodeCreator/CodeFest)**: Голосовая техподдержка. Я бэкэнд-разработчик. `Flask`, `Sqlalchemy`
 <!-- <div id="header" align='center'>
   <div id="badges">
