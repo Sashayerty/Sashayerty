@@ -1,7 +1,7 @@
 # SashayErty's GitHub
 ## Мои проекты
 - **[Kairos](https://github.com/sashayerty/Kairos)**: Создание курсов на основе ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `Google Custom Search API`
-- **[Commit Maker](https://github.com/Sashayerty/commit_maker)**: CLI-утилита для создания коммитов с помощью ИИ. `urllib`, `os`
+- **[Commit Maker](https://github.com/Sashayerty/commit_maker)**: CLI-утилита для создания коммитов с помощью ИИ. `rich`, `ArgParse`, `requests`
 - **[Flask Manager](https://github.com/Sashayerty/flask_manager)**: CLI-утилита, которая создает базовую структуру flask-проекта. `ArgParse`
 - **[BookSlice](https://github.com/Sashayerty/bookslice)**: Сервис для чтения книг с ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `LangChain`
 - **[SimpleMessenger](https://github.com/Sashayerty/Messenger)**: Один из моих первых проектов, сайт для общения. `Flask`, `Firebase`, `Sqlalchemy`
