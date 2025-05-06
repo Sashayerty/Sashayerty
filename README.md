@@ -1,5 +1,6 @@
 # SashayErty's GitHub
 ## Мои проекты
+- **[Kairos FastAPI](https://github.com/sashayerty/kairos-fastapi)**: FastAPI версия api [Kairos'а](https://github.com/sashayerty/Kairos). `FastAPI`, `SQLModel`, `Pydantic`
 - **[Kairos](https://github.com/sashayerty/Kairos)**: Создание курсов на основе ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `Google Custom Search API`
 - **[Commit Maker](https://github.com/Sashayerty/commit_maker)**: CLI-утилита для создания коммитов с помощью ИИ. `rich`, `ArgParse`, `requests`
 - **[Flask Manager](https://github.com/Sashayerty/flask_manager)**: CLI-утилита, которая создает базовую структуру flask-проекта. `ArgParse`
