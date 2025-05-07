@@ -1,4 +1,10 @@
 # SashayErty's GitHub
+
+## Стек технологий:
+### Backend: `FastAPI`, `Flask`, `Django`
+### Работа с БД: `SQLModel`, `Sqlalchemy`
+### Работа с ИИ: `OpenAI`, `MistralAI`, `Ollama`, `LangChain`
+
 ## Мои проекты
 - **[Kairos FastAPI](https://github.com/sashayerty/kairos-fastapi)**: FastAPI версия api [Kairos'а](https://github.com/sashayerty/Kairos). `FastAPI`, `SQLModel`, `Pydantic`
 - **[Kairos](https://github.com/sashayerty/Kairos)**: Создание курсов на основе ИИ. `Flask`, `MistralAI`, `Sqlalchemy`, `Google Custom Search API`
