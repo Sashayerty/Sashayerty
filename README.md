@@ -1,6 +1,7 @@
 # SashayErty's GitHub
 
 ## Стек технологий:
+### Автоматизация: `n8n`
 ### Backend: `FastAPI`, `Flask`, `Django`
 ### Работа с БД: `SQLModel`, `Sqlalchemy`
 ### Работа с ИИ: `OpenAI`, `MistralAI`, `Ollama`, `LangChain`
