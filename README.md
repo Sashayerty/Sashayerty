@@ -3,7 +3,7 @@
 ## Стек технологий:
 - Автоматизация: `n8n`
 - Backend: `FastAPI`, `Flask`, `Django`
-- DevOPS: `Docker`, `Podman`, `CI/CD`
+- DevOPS: `Docker`, `Podman`, `CI/CD`, `Linux`
 - Работа с БД: `SQLModel`, `Sqlalchemy`, `PG`
 - Работа с ИИ: `OpenAI`, `Claude`, `MistralAI`, `Ollama`, `LangChain`
 - ЯП: `Python`, `C/C++ (базовый уровень)`
