@@ -3,8 +3,10 @@
 ## Стек технологий:
 - Автоматизация: `n8n`
 - Backend: `FastAPI`, `Flask`, `Django`
-- Работа с БД: `SQLModel`, `Sqlalchemy`
-- Работа с ИИ: `OpenAI`, `MistralAI`, `Ollama`, `LangChain`
+- DevOPS: `Docker`, `Podman`, `CI/CD`
+- Работа с БД: `SQLModel`, `Sqlalchemy`, `PG`
+- Работа с ИИ: `OpenAI`, `Claude`, `MistralAI`, `Ollama`, `LangChain`
+- ЯП: `Python`, `C/C++ (базовый уровень)`
 
 ## Мои проекты
 - **[Kairos FastAPI](https://github.com/sashayerty/kairos-fastapi)**: FastAPI версия api [Kairos'а](https://github.com/sashayerty/Kairos). `FastAPI`, `SQLModel`, `Pydantic`
